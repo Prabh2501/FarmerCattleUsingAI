@@ -225,4 +225,6 @@ It is:
 
 **Project Type:** Prototype / Hackathon MVP
 **Domain:** AI for Agriculture
+
+
 Working site: https://smartfarm-oc84.onrender.com/
